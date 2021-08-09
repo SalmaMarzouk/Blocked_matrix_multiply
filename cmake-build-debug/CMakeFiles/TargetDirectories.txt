@@ -1,0 +1,3 @@
+/Users/salma/CLionProjects/blocked_matrix_multiply/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/salma/CLionProjects/blocked_matrix_multiply/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/salma/CLionProjects/blocked_matrix_multiply/cmake-build-debug/CMakeFiles/blocked_matrix_multiply.dir

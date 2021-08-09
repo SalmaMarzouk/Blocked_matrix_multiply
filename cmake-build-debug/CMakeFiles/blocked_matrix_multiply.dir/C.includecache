@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/salma/CLionProjects/blocked_matrix_multiply/main.c
+stdio.h
+-
+stdlib.h
+-
+sys/time.h
+-
+
